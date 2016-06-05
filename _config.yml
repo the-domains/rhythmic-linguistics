@@ -1,0 +1,29 @@
+name: Rhythmic Linguistics
+favicon: null
+layout_spectrum: 0.7171128157060593
+typography_spectrum: 0.3653627948369831
+title: Creative uses of spoken and written word
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5739903002977371
+  lightness: 0.13783582113683224
+  saturation: 0.28044731519185007
+  rhythmicContrast: 0.39427270693704486
+purpose: []
