@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Creative uses of spoken and written word]]></title>
         <description><![CDATA[Creative uses of spoken and written word]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rhythmic-linguistics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 12:59:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 11 Jun 2016 16:06:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rhythmic-linguistics/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/043cc831-267c-43e7-92d6-773489f71815.png">]]></description>
+            <link>https://thegrid.ai/rhythmic-linguistics/throw-back-to-lechat4th-grade-where-it-at-man-that-was-w/index.html</link>
+            <guid isPermaLink="false">92eb254d-cd6d-4f3f-894f-a16012242070</guid>
+            <pubDate>Sat, 11 Jun 2016 16:06:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sunblind/Doubt(full)]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5ebace7-d267-43ed-b2ac-0420033a0326.jpg" alt="" title="">]]></description>
-            <link>undefinedsunblinddoubtfull/index.html</link>
+            <link>https://thegrid.ai/rhythmic-linguistics/sunblinddoubtfull/index.html</link>
             <guid isPermaLink="false">a16527ec-aadd-4a6e-b59b-395e2c795124</guid>
             <pubDate>Sun, 05 Jun 2016 12:56:51 GMT</pubDate>
         </item>
